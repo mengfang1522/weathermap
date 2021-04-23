@@ -6,12 +6,12 @@ servicecomb:
     properties:
       allowCrossApp: false
     registry:
-      address: https://cse.cn-north-1.myhuaweicloud.com
+      address: https://cse.ru-moscow-1.hc.sbercloud.ru
       instance:
         watch: false
   config:
     client:
-      serverUri: https://cse.cn-north-1.myhuaweicloud.com
+      serverUri: https://cse.ru-moscow-1.hc.sbercloud.ru
       refreshMode: 1
       refresh_interval: 5000
   rest:
